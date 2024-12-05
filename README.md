@@ -1,16 +1,31 @@
-## Hi there 👋
+##About me
+I'm a Chemical Engineering student with an interest in Chemometrics and Material Science, with particular affection for recycling and circular materials.
+I believe knowledge should be free for all, and so you can find in my repositories all the tools I have designed throughout my studies. 
 
-<!--
-**enzo03gomes/enzo03gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Skills
+I'm proficient in R, and experienced with packages such as `torch`.
+My projects are often revolving around data analysis and signal processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have some experience with MatLab and Excel, but these are by far not my speciality.
+I intend to learn Fortran soon. 
+
+
+##Projects
+Currently working on:
+- FTIR analysis toolkit for R
+- TGA analysis toolkit for R
+
+Future projects may include:
+- XRD tools for material characterization
+- Fortran translations for current R projects
+
+
+##Contact me
+You can contact me on my email:
+```
+enzo03gomes@gmail.com
+```
+
+
+
