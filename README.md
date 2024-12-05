@@ -1,27 +1,30 @@
-##About me
+## About me
+
 I'm a Chemical Engineering student with an interest in Chemometrics and Material Science, with particular affection for recycling and circular materials.
 I believe knowledge should be free for all, and so you can find in my repositories all the tools I have designed throughout my studies. 
 
 
-##Skills
-I'm proficient in R, and experienced with packages such as `torch`.
+## Skills
+
+Proficient in `R`, and experienced with packages such as `torch`.
 My projects are often revolving around data analysis and signal processing.
 
-I have some experience with MatLab and Excel, but these are by far not my speciality.
-I intend to learn Fortran soon. 
+I have some experience with `MatLab` and `Excel`, but these are by far not my speciality.
+I intend to learn `Fortran` soon. 
 
 
-##Projects
+## Projects
+
 Currently working on:
-- FTIR analysis toolkit for R
-- TGA analysis toolkit for R
+- FTIR analysis toolkit for `R`
+- TGA analysis toolkit for `R`
 
 Future projects may include:
 - XRD tools for material characterization
-- Fortran translations for current R projects
+- Fortran translations for current `R` projects
 
 
-##Contact me
+## Contact me
 You can contact me on my email:
 ```
 enzo03gomes@gmail.com
