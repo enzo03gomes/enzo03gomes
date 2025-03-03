@@ -18,10 +18,11 @@ I intend to learn `Fortran` soon.
 Currently working on:
 - FTIR analysis toolkit for `R`
 - TGA analysis toolkit for `R`
+- Standardized plots for `R`
 
 Future projects may include:
-- XRD tools for material characterization
-- Fortran translations for current `R` projects
+- `Fortran` translations for current `R` projects
+- Colorblind assessment and palette building tools for `R`
 
 
 ## Contact me
