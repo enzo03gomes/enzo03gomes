@@ -17,7 +17,6 @@ I intend to learn `Fortran` soon.
 
 Currently working on:
 - FTIR analysis toolkit for `R`
-- TGA analysis toolkit for `R`
 - Standardized plots for `R`
 
 Future projects may include:
